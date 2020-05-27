@@ -1,5 +1,5 @@
 # MonkeyClassifier
-Classifies 10 different monkey species
+Classifies 10 different monkey species based on images
 
 # Prerequesites 
 Delete current Pytorch and reinstall torch==1.4.0 in order to use Fast.AI
